@@ -4,10 +4,10 @@ This repository contains some MS Excel dashboards I have done for practical purp
 <br>
 
 ### :zap: Sales Analytics Dashboard
-> [Dataset]()
+> [Dataset](https://github.com/Rohit-Rannavre/MS-Excel-Dashboards-2024/blob/main/Dashboards/sales_analytics_dashboard.xlsx)
 
 > **Dashboard**:
-<img align="center" src="" width="900">
+<img align="center" src="https://github.com/Rohit-Rannavre/MS-Excel-Dashboards-2024/blob/main/Dashboards/Sales%20Analytics%20Dashboard.png" width="900">
 
 ***
 
