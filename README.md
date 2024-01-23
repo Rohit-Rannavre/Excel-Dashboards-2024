@@ -7,13 +7,13 @@ This repository contains some MS Excel dashboards I have done for practical purp
 
 > **Objective**: The Vrinda Store aims to create a yearly sales report for 2022 to enable the store owner to gain insights into customer behavior and strategize for increased sales in 2023.
 
-> [Dataset](https://github.com/Rohit-Rannavre/MS-Excel-Dashboards-2024/blob/main/Dashboards/vrinda_store_dataset.xlsx)
-
 > **Questions:**
 - Compare the sales and orders using a single chart to find out which month got the highest sales and orders?
 - What are the top 5 states contributing to the sales?
 - What is the relation between age and gender based on number of orders?
 - Who made more purchases - men or women?
+
+> [Dataset](https://github.com/Rohit-Rannavre/MS-Excel-Dashboards-2024/blob/main/Dashboards/vrinda_store_dataset.xlsx)
 
 > **Dashboard**:
 <img align="center" src="https://github.com/Rohit-Rannavre/MS-Excel-Dashboards-2024/blob/main/Dashboards/Vrinda%20Sales%20Dashboard.png" width="900">
