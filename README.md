@@ -13,7 +13,7 @@ This repository contains some MS Excel dashboards I have done for practical purp
 
 ***
 
-### :zap: Vrinda Sales Dashboard
+### :zap: Vrinda Store Sales Dashboard
 > **Objective**: The Vrinda Store aims to create a yearly sales report for 2022 to enable the store owner to gain insights into customer behavior and strategize for increased sales in 2023.
 
 > **Questions:**
