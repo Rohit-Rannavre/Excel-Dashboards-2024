@@ -5,7 +5,7 @@ This repository contains some MS Excel dashboards I have done for practical purp
 
 ### :zap: Vrinda Sales Dashboard
 
-> **Objective**: The Vrinda Store wants to create an annual sales report for 2022 so that the owner of the store can understand their customers and grow more sales in 2023.
+> **Objective**: The Vrinda Store aims to create a yearly sales report for 2022 to enable the store owner to gain insights into customer behavior and strategize for increased sales in 2023.
 
 > [Dataset](https://github.com/Rohit-Rannavre/MS-Excel-Dashboards-2024/blob/main/Dashboards/vrinda_store_dataset.xlsx)
 
