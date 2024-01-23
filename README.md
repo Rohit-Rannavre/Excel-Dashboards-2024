@@ -1,5 +1,5 @@
 # :star: MS Excel Dashboards 2024
-This repository contains some MS Excel dashboards that I created for practical purposes.
+This repository contains some MS Excel dashboards I have done for practical purposes.
 
 <br>
 
