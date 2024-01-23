@@ -5,6 +5,8 @@
 > **Questions:**
 - Compare the sales and orders using a single chart to find out which month got the highest sales and orders?
 - What are the top 5 states contributing to the sales?
+- What is the relation between age and gender based on number of orders?
+- Who purchased more - men or women?
 
 > [Dataset](https://github.com/Rohit-Rannavre/MS-Excel-Dashboards-2024/blob/main/Dashboards/vrinda_store_dataset.xlsx) 
 
