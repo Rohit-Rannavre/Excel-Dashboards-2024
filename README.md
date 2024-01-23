@@ -1,4 +1,7 @@
 # :star: MS Excel Dashboards 2024
+This repository contains some MS Excel dashboards that I created for practical purposes.
+
+<br>
 
 ### :zap: Vrinda Sales Dashboard
 
