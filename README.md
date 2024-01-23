@@ -9,6 +9,8 @@ This repository contains some MS Excel dashboards I have done for practical purp
 > **Dashboard**:
 <img align="center" src="https://github.com/Rohit-Rannavre/MS-Excel-Dashboards-2024/blob/main/Dashboards/Sales%20Analytics%20Dashboard.png" width="900">
 
+<br>
+
 ***
 
 ### :zap: Vrinda Sales Dashboard
