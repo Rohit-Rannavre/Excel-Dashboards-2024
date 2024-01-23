@@ -13,7 +13,7 @@ This repository contains some MS Excel dashboards I have done for practical purp
 - Compare the sales and orders using a single chart to find out which month got the highest sales and orders?
 - What are the top 5 states contributing to the sales?
 - What is the relation between age and gender based on number of orders?
-- Who purchased more - men or women?
+- Who made more purchases - men or women?
 
 > **Dashboard**:
 <img align="center" src="https://github.com/Rohit-Rannavre/MS-Excel-Dashboards-2024/blob/main/Dashboards/Vrinda%20Sales%20Dashboard.png" width="900">
