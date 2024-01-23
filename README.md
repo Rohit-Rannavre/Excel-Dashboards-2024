@@ -12,6 +12,11 @@
 - What is the relation between age and gender based on number of orders?
 - Who purchased more - men or women?
 
-
 > **Dashboard**:
 <img align="center" src="https://github.com/Rohit-Rannavre/MS-Excel-Dashboards-2024/blob/main/Dashboards/Vrinda%20Sales%20Dashboard.png" width="900">
+
+<br>
+
+### ***Let's connect:*** 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-rannavre)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohit.rannavre@gmail.com)
